@@ -1,4 +1,4 @@
-package challenges.CrackingtheCodingInterview;
+package challenges.CrackingtheCodingInterview.dataStructures;
 
 import java.util.ArrayList;
 import java.util.Collections;

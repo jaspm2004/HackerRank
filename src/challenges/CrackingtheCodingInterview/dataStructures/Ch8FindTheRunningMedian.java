@@ -1,4 +1,4 @@
-package challenges.CrackingtheCodingInterview;
+package challenges.CrackingtheCodingInterview.dataStructures;
 
 import java.util.Arrays;
 import java.util.Comparator;

@@ -11,6 +11,13 @@ public class ChToBin {
      */
     public static void main(String[] args) {
         System.out.println(toBinary(6));
+        String input = "a";
+        String[] array = input.split(" ");
+        System.out.println(array.length);
+        for (int i = 0; i < array.length; i++) {
+            if (!array[i].isEmpty())
+                System.out.println(array[i]);
+        }
     }
     
     public static int toBinary(int n) {
